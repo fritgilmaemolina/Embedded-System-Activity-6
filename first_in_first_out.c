@@ -1,4 +1,10 @@
-// First in First Out
+/*
+ Fritgil Mae L. Molina
+ BSCpE 4 A
+ CPE 411 Embedded Stystems
+ Activity 6
+ Firt in First Out
+ */
 int led1 = 13;
 int led2 = 12;
 int led3 = 11;
