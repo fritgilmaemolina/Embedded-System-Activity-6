@@ -3,7 +3,7 @@
  BSCpE 4 A
  CPE 411 Embedded Stystems
  Activity 6
- Firt in First Out
+ First in First Out
  */
 int led1 = 13;
 int led2 = 12;
